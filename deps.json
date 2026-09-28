@@ -1,0 +1,22 @@
+{
+    "dependencies": [
+        {
+            "name": "openssl",
+            "version": "4.0.2",
+            "source": "https://github.com/openssl/openssl/releases/download/openssl-4.0.2/openssl-4.0.2.tar.gz",
+            "sha256": "736b467530f916737b7031310ccb21d8218c6229e61e8e160cd1d3458cd543a8"
+        },
+        {
+            "name": "curl",
+            "version": "8.22.0",
+            "source": "https://github.com/curl/curl/releases/download/curl-8_22_0/curl-8.22.0.tar.gz",
+            "sha256": "d54dd598bf05927a726deb38df31c6a255ba83ff1de57c5d1464dac3ed8f44a1"
+        },
+        {
+            "name": "nghttp2",
+            "version": "1.70.0",
+            "source": "https://github.com/nghttp2/nghttp2/releases/download/v1.70.0/nghttp2-1.70.0.tar.gz",
+            "sha256": "aa317e2cf9dca6afa0aed68f8fad6ff303ec6982e25a78c75c0b65e2b9b3ded5"
+        }
+    ]
+}

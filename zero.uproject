@@ -1,0 +1,16 @@
+{
+    "FileVersion": 3,
+    "EngineAssociation": "",
+    "Category": "Games",
+    "Description": "Persistent sandbox MMORPG.",
+    "Modules": [
+        {
+            "Name": "zero",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ],
+    "TargetPlatforms": [
+        "Windows"
+    ]
+}
